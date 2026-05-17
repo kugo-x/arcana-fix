@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 ARCANA — InklusiKerja Platform
+# 🌟 ARCANA — Adaptive Recruitment & Career Accessibility Navigator
 
 **Platform rekrutmen inklusif berbasis AI untuk penyandang disabilitas di Indonesia**
 
@@ -14,23 +14,7 @@
 
 ## 📖 Tentang Proyek
 
-**InklusiKerja** adalah platform rekrutmen berbasis kecerdasan buatan yang dirancang khusus untuk mempertemukan pencari kerja <div align="center">
-
-# 🌟 ARCANA — InklusiKerja Platform
-
-**Platform rekrutmen inklusif berbasis AI untuk penyandang disabilitas di Indonesia**
-
-![Platform](https://img.shields.io/badge/platform-web-blue?style=for-the-badge)
-![Stack](https://img.shields.io/badge/stack-React%20%7C%20Node.js%20%7C%20Python-brightgreen?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-
-</div>
-
----
-
-## 📖 Tentang Proyek
-
-**InklusiKerja** adalah platform rekrutmen berbasis kecerdasan buatan yang dirancang khusus untuk mempertemukan pencari kerja penyandang disabilitas dengan perusahaan-perusahaan inklusif. Platform ini menggunakan teknologi *Semantic Job Matching* dengan model bahasa SBERT (Sentence-BERT) untuk menghasilkan rekomendasi pekerjaan yang relevan, akurat, dan inklusif.
+**ARCANA** adalah platform rekrutmen berbasis kecerdasan buatan yang dirancang khusus untuk mempertemukan pencari kerja penyandang disabilitas dengan perusahaan-perusahaan inklusif. Platform ini menggunakan teknologi *Semantic Job Matching* dengan model bahasa SBERT (Sentence-BERT) untuk menghasilkan rekomendasi pekerjaan yang relevan, akurat, dan inklusif.
 
 ### ✨ Fitur Utama
 
